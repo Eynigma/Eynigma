@@ -1,4 +1,4 @@
-<h1>Greetings, I'm Ian! <br/><a href="https://www.linkedin.com/in/iangoodman13/">Cybersecurity Specialist</a></h1>
+<h1>Greetings, I am Ian and this is my Portfolio. <br/><a href="https://www.linkedin.com/in/iangoodman13/">Cybersecurity Specialist</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
