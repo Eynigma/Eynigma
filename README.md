@@ -1,4 +1,4 @@
-<h1>Greetings, I am Ian and this is my Portfolio. <br/><a href="https://www.linkedin.com/in/iangoodman13/">Cybersecurity Specialist</a></h1>
+<h1>Greetings, I'm Ian and this is my Portfolio. <br/><a href="https://www.linkedin.com/in/iangoodman13/">Cybersecurity Specialist</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -7,6 +7,7 @@
 <h2>📜 Certifications:</h2>
 
 - [CompTIA Security+ CE](https://www.credly.com/badges/a202e3bc-c2e5-4fa6-8ec8-64c88e5711a3)
+- [Microsoft Certified: Security, Compliance, and Identity Fundamentals]([https://www.credly.com/badges/a202e3bc-c2e5-4fa6-8ec8-64c88e5711a3](https://learn.microsoft.com/api/credentials/share/en-us/IanGoodman/79299F0AB8940A9A?sharingId=F892CE2EF2DD3E08))
 
 <h2> 🤳 Connect with me:</h2>
 
