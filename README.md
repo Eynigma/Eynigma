@@ -28,7 +28,7 @@ This portfolio documents hands-on SOC projects designed to mirror **real-world b
 
 ## 👨‍💻 SOC Projects
 
-- 🔍 **[SOC-in-a-Box Home Lab](https://github.com/eynigma)**  
+- 🔍 **[SOC-in-a-Box Home Lab](https://github.com/eynigma/SOC-in-a-Box-Homelab)**  
   A multi-phase blue team environment designed to replicate **entry-level to mid-tier SOC operations**, including:
   - SIEM architecture & log ingestion
   - Network & endpoint telemetry analysis
