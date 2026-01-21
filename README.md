@@ -14,9 +14,9 @@ This portfolio documents hands-on SOC projects designed to mirror **real-world b
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-blue?style=for-the-badge&logo=comptia)
 ![Microsoft SC-900](https://img.shields.io/badge/Microsoft-SC--900-0078D4?style=for-the-badge&logo=microsoft)
 
-- **CompTIA CySA+ (Cybersecurity Analyst)** – DoD 8140 CSSP Analyst
-   [View Credential](https://www.credly.com/badges/2045cafb-a3a8-4927-a947-4b5f2448f547/public_url)
-  
+- **CompTIA CySA+ (Cybersecurity Analyst)** – DoD 8140 CSSP Analyst  
+  [View Credential](https://www.credly.com/badges/2045cafb-a3a8-4927-a947-4b5f2448f547/public_url)
+
 - **CompTIA Security+ CE** – DoD 8140 IAT Level II  
   [View Credential](https://www.credly.com/badges/a202e3bc-c2e5-4fa6-8ec8-64c88e5711a3)
 
@@ -24,6 +24,7 @@ This portfolio documents hands-on SOC projects designed to mirror **real-world b
   [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/IanGoodman/79299F0AB8940A9A?sharingId=F892CE2EF2DD3E08)
 
 ---
+
 
 ## 👨‍💻 SOC Projects
 
