@@ -39,7 +39,7 @@ Typical architecture components include:
 **A detection-driven SOC environment designed to simulate real-world blue team operations**
 
 🔗 Repository  
-https://github.com/eynigma/SOC-in-a-Box-Homelab
+https://github.com/Ian-Goodman/SOC-in-a-Box-Homelab
 
 ### Project Objectives
 
