@@ -17,7 +17,7 @@ https://www.linkedin.com/in/iangoodman13/
 
 ---
 
-# 🧪 Featured Project
+# 🧪 Featured Projects
 
 ## 🔍 SOC-in-a-Box Homelab  
 **A detection-driven SOC environment designed to simulate real-world blue team operations**
